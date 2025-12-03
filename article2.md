@@ -1,11 +1,11 @@
-+++
+---
 title = "September 2025: New features in M&NTIS Platform"
 date = "2025-09-12T15:13:00+02:00"
 tags = ["m&ntis", "version"]
 categories = ["blog"]
 banner = "img/banners/mantis-v4.png"
 summary = "This new release enhanced hands-on lab experience for blue team training, allowing them to sharpen their skills in realistic, high-pressure scenarios."
-+++
+---
 
 
 We’re excited to unveil the newest update of the M&NTIS Platform,
