@@ -3,6 +3,7 @@ title: "September 2025: New features in M&NTIS Platform"
 date: "2025-09-12T15:13:00+02:00"
 tags: ["Threat intelligence"]
 author: "Frédéric Guihery aka The boss"
+preview: "https://raw.githubusercontent.com/tylef/blogtest/refs/heads/main/img/article1.png"
 ---
 
 
