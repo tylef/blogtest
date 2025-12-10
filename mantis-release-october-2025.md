@@ -3,7 +3,7 @@ title = "October 2025: New features in M&NTIS Platform"
 date = "2025-11-07T14:12:00+02:00"
 tags = ["m&ntis", "version"]
 categories = ["blog"]
-banner = "img/banners/mantis-v4.png"
+banner = "img/mantis-v2025.10/mantis-v4.png"
 summary = "This new release enhance training with quizz, improve visibility on attack indicators, and introduce a brand-new attack scenario."
 +++
 
