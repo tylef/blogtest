@@ -1,5 +1,5 @@
 ---
-title: "September 2025: New features in M&NTIS Platform"
+title: "New features in M&NTIS Platform"
 date: "2025-09-12T15:13:00+02:00"
 tags: ["Threat intelligence"]
 author: "Frédéric Guihery aka The boss"
@@ -19,15 +19,15 @@ Teams can sharpen their skills in realistic, high-pressure scenarios.
 
 - Visualization of user activity videos from an ongoing lab 
 
-![M&NTIS Lab Learning Context](/img/blog/mantis-v2025.09/mantis_user_activity_video.png)
+![M&NTIS Lab Learning Context](/img/article1/mantis_user_activity_video.png)
 
 - Visualization of signatures associated with a scenario 
 
-![M&NTIS Lab Learning Context](/img/blog/mantis-v2025.09/mantis_signature_visualization.png)
+![M&NTIS Lab Learning Context](/img/article1/mantis_signature_visualization.png)
 
 - Improvement of zoom/dezoom logic to optimize the lab page space 
 
-![M&NTIS Lab Learning Context](/img/blog/mantis-v2025.09/mantis_zoom.png)
+![M&NTIS Lab Learning Context](/img/article1/mantis_zoom.png)
 
 - Restoration of the ability to activate the background user activity orchestrator
 
