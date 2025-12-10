@@ -1,5 +1,5 @@
 +++
-title = "September 2025: New features in M&NTIS Platform"
+title = "New features in M&NTIS Platform"
 date = "2025-09-12T15:13:00+02:00"
 tags = ["m&ntis", "version"]
 categories = ["blog"]
