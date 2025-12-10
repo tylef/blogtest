@@ -1,9 +1,9 @@
 ---
-title = "New features in M&NTIS Platform"
-date = "2025-11-07"
-tags = ["m&ntis", "version"]
-preview = "img/mantis-v2025.10/mantis-v4.png"
-author = "L'équipe M&NTIS"
+title: "New features in M&NTIS Platform"
+date: "2025-11-07"
+tags: ["m&ntis", "version"]
+preview: "img/mantis-v2025.10/mantis-v4.png"
+author: "L'équipe M&NTIS"
 ---
 
 
