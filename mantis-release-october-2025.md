@@ -5,6 +5,7 @@ tags = ["m&ntis", "version"]
 categories = ["blog"]
 preview = "img/mantis-v2025.10/mantis-v4.png"
 summary = "This new release enhance training with quizz, improve visibility on attack indicators, and introduce a brand-new attack scenario."
+author = "L'équipe M&NTIS"
 ---
 
 
