@@ -1,6 +1,6 @@
 +++
 title = "New features in M&NTIS Platform"
-date = "2025-09-12T15:13:00+02:00"
+date = "2025-09-12"
 tags = ["m&ntis", "version"]
 categories = ["blog"]
 banner = "img/banners/mantis-v4.png"
@@ -13,8 +13,6 @@ designed to make cyber defense training more immersive, collaborative,
 and effective. With this release, we’ve enhanced both the hands-on lab
 experience and the defensive collaboration environment, ensuring Blue
 Teams can sharpen their skills in realistic, high-pressure scenarios.
-
----
 
 ## 🖥️ Lab Enhancements
 
