@@ -7,11 +7,7 @@ preview: "https://raw.githubusercontent.com/tylef/blogtest/refs/heads/main/img/a
 ---
 
 
-We’re excited to unveil the newest update of the M&NTIS Platform,
-designed to make cyber defense training more immersive, collaborative,
-and effective. With this release, we’ve enhanced both the hands-on lab
-experience and the defensive collaboration environment, ensuring Blue
-Teams can sharpen their skills in realistic, high-pressure scenarios.
+We’re excited to unveil the newest update of the M&NTIS Platform, designed to make cyber defense training more immersive, collaborative, and effective. With this release, we’ve enhanced both the hands-on lab experience and the defensive collaboration environment, ensuring Blue Teams can sharpen their skills in realistic, high-pressure scenarios.
 
 ---
 
