@@ -3,6 +3,7 @@ title: "New features in M&NTIS Platform"
 date: "2025-09-12T15:13:00+02:00"
 tags: ["Threat intelligence"]
 author: "Frédéric Guihery aka The boss"
+summary: "This new release enhanced hands-on lab experience for blue team training, allowing them to sharpen their skills in realistic, high-pressure scenarios."
 preview: "https://raw.githubusercontent.com/tylef/blogtest/refs/heads/main/img/article1.png"
 ---
 

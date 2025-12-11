@@ -4,6 +4,7 @@ date: "2025-11-07"
 tags: ["m&ntis", "version"]
 preview: "img/mantis-v2025.10/mantis-v4.png"
 author: "L'équipe M&NTIS"
+summary: "This new release enhance training with quizz, improve visibility on attack indicators, and introduce a brand-new attack scenario."
 ---
 
 
